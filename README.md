@@ -1,1 +1,1 @@
-# my_car
+# This project was started to learn PHP & Yii2 with practice
